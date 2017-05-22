@@ -17,7 +17,7 @@ int operator(char ch)
 		return(0);
    }
 }
-int main(){
+int main(){ 
 	int a,b,res,i;
 	char post[20];
 	printf("enter postfix=");
